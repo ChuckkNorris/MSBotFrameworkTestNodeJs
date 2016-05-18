@@ -1,0 +1,31 @@
+{
+  "name": "ms-bot-framework-test-nodejs",
+  "version": "1.0.0",
+  "description": "Test of the Microsoft Bot Framework in NodeJS",
+  "main": "bot.js",
+  "dependencies": {
+    "botconnector": "0.9.6",
+    "restify": "4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChuckkNorris/MSBotFrameworkTestNodeJs.git"
+  },
+  "keywords": [
+    "microsoft",
+    "bot",
+    "framework",
+    "node",
+    "nodejs"
+  ],
+  "author": "Levi Fuller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChuckkNorris/MSBotFrameworkTestNodeJs/issues"
+  },
+  "homepage": "https://github.com/ChuckkNorris/MSBotFrameworkTestNodeJs#readme"
+}
